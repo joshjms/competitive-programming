@@ -1,0 +1,1 @@
+{"name":"Local: Game on Tree","url":"d:\\Coding\\CP\\Codeforces\\Game on Tree.cpp","tests":[{"id":1642303103825,"input":"2\n1 2\n","output":""},{"id":1642303112138,"input":"3\n1 2\n1 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\Codeforces\\Game on Tree.cpp","group":"local","local":true}

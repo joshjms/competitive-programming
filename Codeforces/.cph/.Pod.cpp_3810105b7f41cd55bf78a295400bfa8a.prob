@@ -1,0 +1,1 @@
+{"name":"Local: Pod","url":"c:\\joshjms\\Codeforces\\Pod.cpp","tests":[{"id":1641571504989,"input":"6\n5 6 4 5 4 5\n0 1 1 3\n1 3 3 3\n1 5 2 3\n3 1 4 2\n4 1 5 3","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\joshjms\\Codeforces\\Pod.cpp","group":"local","local":true}

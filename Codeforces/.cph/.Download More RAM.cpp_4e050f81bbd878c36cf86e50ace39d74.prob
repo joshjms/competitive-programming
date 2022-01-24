@@ -1,0 +1,1 @@
+{"name":"Local: Download More RAM","url":"d:\\Coding\\CP\\Codeforces\\Download More RAM.cpp","tests":[{"id":1642862296434,"input":"9\n1 1 0\n3 5 1\n13 13 0\n4 4 0\n3 7 4\n4 10 3\n2 4 0\n1 7 3\n1 5 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\Codeforces\\Download More RAM.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Martial Arts Tournament","url":"d:\\Coding\\CP\\Codeforces\\Martial Arts Tournament.cpp","tests":[{"id":1642347539448,"input":"4\n4\n3 1 2 1\n1\n1\n6\n2 2 2 1 1 1\n8\n6 3 6 3 6 3 6 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\Codeforces\\Martial Arts Tournament.cpp","group":"local","local":true}

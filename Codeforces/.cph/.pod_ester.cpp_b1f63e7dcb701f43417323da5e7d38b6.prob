@@ -1,0 +1,1 @@
+{"name":"Local: pod_ester","url":"c:\\joshjms\\Codeforces\\pod_ester.cpp","tests":[{"id":1641572802802,"input":"3\n1 2 1\n0 0 1 0\n1 1 2 0\n","output":""},{"id":1641573719892,"input":"1\n6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\joshjms\\Codeforces\\pod_ester.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Strange Function","url":"d:\\Coding\\CP\\Codeforces\\Strange Function.cpp","tests":[{"id":1642251403565,"input":"6\n1\n2\n3\n4\n10\n10000000000000000\n","output":""},{"id":1642251573173,"input":"1\n10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\Codeforces\\Strange Function.cpp","group":"local","local":true}

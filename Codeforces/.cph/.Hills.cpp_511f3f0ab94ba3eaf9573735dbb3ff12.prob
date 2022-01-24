@@ -1,0 +1,1 @@
+{"name":"Local: Hills","url":"d:\\Coding\\CP\\Codeforces\\Hills.cpp","tests":[{"id":1642334828997,"input":"5\n1 1 1 1 1","output":""},{"id":1642335571646,"input":"6\n3 2 3 2 3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\Codeforces\\Hills.cpp","group":"local","local":true}
