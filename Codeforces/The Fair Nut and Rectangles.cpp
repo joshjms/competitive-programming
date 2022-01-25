@@ -48,7 +48,7 @@ void solve(){
         int f = dq.back().f(arr[i].q) + arr[i].p * arr[i].q - arr[i].a;
         ans = max(ans, f);
         line cur = {-arr[i].p, f};
-        while(dq.size() > 1 && cur.intersect(dq[0]) >= dq[0].intersect(dq[1]))
+        while(dq.size() > 1 && cur.intersect(dq[1]) >= dq[0].intersect(dq[1]))
             dq.pop_front();
         dq.push_front(cur);
     }
