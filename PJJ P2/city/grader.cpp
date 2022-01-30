@@ -1,7 +1,7 @@
 #include <cstdio>
 #include <algorithm>
 #include <vector>
-#include "city.h"
+#include "city.cpp"
 
 int main() {
   int N, M, S, T;
