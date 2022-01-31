@@ -1,0 +1,1 @@
+{"name":"Local: shoes","url":"d:\\Competitive Programming\\IOI 2019\\shoes\\cpp\\shoes.cpp","tests":[{"id":1643627498168,"input":"3\n1 1 1 -1 -1 -1","output":""},{"id":1643627522095,"input":"2\n1 1 -1 -1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Competitive Programming\\IOI 2019\\shoes\\cpp\\shoes.cpp","group":"local","local":true}

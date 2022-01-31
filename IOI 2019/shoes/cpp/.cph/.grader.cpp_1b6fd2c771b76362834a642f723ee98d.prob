@@ -1,0 +1,1 @@
+{"name":"Local: grader","url":"d:\\Competitive Programming\\IOI 2019\\shoes\\cpp\\grader.cpp","tests":[{"id":1643626157870,"input":"2\n2 1 -1 -2","output":""},{"id":1643627084583,"input":"3\n-2 2 2 -2 -2 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Competitive Programming\\IOI 2019\\shoes\\cpp\\grader.cpp","group":"local","local":true}
