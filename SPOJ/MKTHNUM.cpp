@@ -19,16 +19,16 @@ int pos[100005];
 pair <int,int> arr[100005];
 
 struct node{
-    node *l, *r;
-    int val;
+    node *left, *right;
+    int val = 0;
     node(int v){
-        l = nullptr, r = nullptr, val = v;
+        left = nullptr, right = nullptr, val = v;
     }
     node(node *lc, node *rc){
-        l = lc;
-        r = rc;
-        if(lc) val += lc->val;
-        if(rc) val += rc->val; 
+        left = lc;
+        right = rc;
+        if(lc != NULL) val += lc->val;
+        if(rc != NULL) val += rc->val; 
     }
 };
 
@@ -36,9 +36,8 @@ vector <node*> v;
 
 struct segment_tree{
     node* build(int l, int r){
-        if(l == r){
+        if(l == r)
             return new node(0);
-        }
         int md = (l + r) / 2;
         return new node(build(l, md), build(md + 1, r));
     }
@@ -46,15 +45,22 @@ struct segment_tree{
         if(l == r)
             return new node(v);
         int md = (l + r) / 2;
-        if(x <= md) return new node(upd(cur->l, l, md, x, v), cur->r);
-        else return new node(cur->l, upd(cur->r, md + 1, r, x, v));
+        if(x <= md) return new node(upd(cur->left, l, md, x, v), cur->right);
+        else return new node(cur->left, upd(cur->right, md + 1, r, x, v));
     }
     int query(node* lnode, node* rnode, int l, int r, int k){
         if(l == r) return l;
         int md = (l + r) / 2;
-        if(rnode->l - lnode->l >= k)
-            return query(lnode->l, rnode->l, l, md, k);
-        else return query(lnode->r, rnode->r, md + 1, r, k);
+        if(rnode->left->val - lnode->left->val >= k)
+            return query(lnode->left, rnode->left, l, md, k);
+        else return query(lnode->right, rnode->right, md + 1, r, k - (rnode->left->val - lnode->left->val));
+    }
+    int sum(node* cur, int l, int r, int x, int y){
+        if(l > r || l > y || r < x) return 0;
+        if(l >= x && r <= y) return cur->val;
+        int md = (l + r) / 2;
+        int ret = sum(cur->left, l, md, x, y) + sum(cur->right, md + 1, r, x, y);
+        return ret;
     }
 } segtree;
 
@@ -72,11 +78,9 @@ void solve(){
     for(int i = 1; i <= n; i++){
         v.pb(segtree.upd(v.back(), 1, n, pos[i], 1));
     }
-    cout << "\n";
     for(int t = 1, l, r, k; t <= q; t++){
         cin >> l >> r >> k;
         int p = segtree.query(v[l - 1], v[r], 1, n, k);
-        debug(p);
         cout << arr[p].fi << "\n";
     }
 }
