@@ -1,0 +1,1 @@
+{"name":"Local: Cycle Hit","url":"d:\\Competitive Programming\\AtCoder\\Cycle Hit.cpp","tests":[{"id":1644286395612,"input":"3B\nHR\n2B\nH\n","output":""},{"id":1644286400090,"input":"2B\n3B\nHR\n3B","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Competitive Programming\\AtCoder\\Cycle Hit.cpp","group":"local","local":true}
