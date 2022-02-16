@@ -12,3 +12,11 @@
 - Instagram   : [@joshjms16](https://www.instagram.com/joshjms16/)
 - Discord     : joshjms#5732
 - Linkedin    : [Joshua James](https://www.linkedin.com/in/joshua-james-20074222a/)
+
+### Try to solve this!
+Given two integers $A$ and $B$. Find $S$ where $S = A + B$.
+
+#### Constraints
+- EASY - $1 \le A, B \le 1000$
+- EASY - $1 \le A, B \le 10^{18}$
+- EASY? - $1 \le A, B \le 10^{100}$ (don't use Python big integer!!!)
