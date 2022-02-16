@@ -1,5 +1,4 @@
-# Competitive Programming
-Joshua James's Competitive Programming Archive
+# Joshua's Competitive Programming Repository
 
 ### Competitive Programming Profiles
 - Codeforces  : [joshjms](https://codeforces.com/profile/joshjms)
