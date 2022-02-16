@@ -2,7 +2,7 @@
 Joshua James's Competitive Programming Archive
 
 ### Competitive Programming Profiles
-- Codeforces  : <span style = "color:violet; text-decoration:none;"> [joshjms](https://codeforces.com/profile/joshjms) </span>
+- Codeforces  : <a href = "https://codeforces.com/profile/joshjms" style = "color:violet"> joshjms </a>
 - AtCoder     : <span style = "color:brown; text-decoration:none;"> [tsukinousagi](https://atcoder.jp/users/tsukinousagi) </span>
 - TLX         : <span style = "color:orange; text-decoration:none;"> [joshjms16](https://tlx.toki.id/profiles/joshjms16) </span>
 
