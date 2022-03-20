@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"d:\\Competitive Programming\\PJJ P2\\Extra Problems\\E.cpp","tests":[{"id":1645797330494,"input":"7 2\n1 6 6 4 6 6 6\n","output":""},{"id":1645797939007,"input":"7 4\n5 5 5 5 2 3 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Competitive Programming\\PJJ P2\\Extra Problems\\E.cpp","group":"local","local":true}
