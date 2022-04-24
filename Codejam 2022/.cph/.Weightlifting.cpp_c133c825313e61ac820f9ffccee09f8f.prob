@@ -1,0 +1,1 @@
+{"name":"Local: Weightlifting","url":"d:\\Competitive Programming\\Codejam 2022\\Weightlifting.cpp","tests":[{"id":1649473883629,"input":"1\n2 3\n1 2 1\n2 1 2\n3 3\n3 1 1\n3 3 3\n2 3 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Competitive Programming\\Codejam 2022\\Weightlifting.cpp","group":"local","local":true}

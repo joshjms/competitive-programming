@@ -1,0 +1,1 @@
+{"name":"Local: Direction Change","url":"d:\\Competitive Programming\\AtCoder\\Direction Change.cpp","tests":[{"id":1650379484291,"input":"6\n1 1\n2 1\n1 3\n4 2\n4 6\n10 5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Competitive Programming\\AtCoder\\Direction Change.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Moment of Bloom","url":"d:\\Competitive Programming\\Codeforces\\Moment of Bloom.cpp","tests":[{"id":1649501996221,"input":"6 7\n2 1\n2 3\n3 5\n1 4\n6 1\n5 6\n4 5\n3\n1 4\n5 1\n4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Competitive Programming\\Codeforces\\Moment of Bloom.cpp","group":"local","local":true}
