@@ -6,7 +6,7 @@
 - TLX         : [joshjms16](https://tlx.toki.id/profiles/joshjms16)
 
 ### Indonesia's National Olympiad in Informatics 2021
-- Scoreboard  : [KSN 2021](https://ksn.toki.id/KSN2021/hasil)
+- Scoreboard  : [KSN 2021](https://osn.toki.id/KSN2021/hasil)
 
 ### Contact me!
 - Instagram   : [@joshjms16](https://www.instagram.com/joshjms16/)
